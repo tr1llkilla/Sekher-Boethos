@@ -11,11 +11,11 @@ the basis for creating a new programming language. I also have a custom class/li
 represents a boolean concept with eleven distinct states (0-10) and incorporates chaos theory. I wonderered could 
 this concept be used to define a new programming language and if so, how would I go about creating a mini compiler or 
 interpreter in C++ that uses this ElevenValueBoolean class? From this I realized what a compiler really is and how it works.
-Computer science, programming, software engineering, and just technology all apply this general concept of reinterpreting,
-that is what a compiler is, it reinterprets the binary code into something else, like machine code or bytecode.And 
-the current ideology the programming world follows in designing it's current archetecture for systems and hardware
-from "master-slave" - "dynamic (it really isnt dynamic in this sense it's just a fakazz reapplication of binary concepts)
-programming" ... to "client-server" - "cloud computing" - "distributed systems" - "parallel processing" - "quantum computing"
+Computer science, programming, software engineering, and technology all apply this general concept of reinterpreting.
+That what is what a compiler is. A reinterprets of binary code into something else, like machine code or bytecode, 
+based on a set of pre-defined "rules" or syntax. And the current ideology the programming world follows in designing it's 
+current archetecture for systems and hardware from "master-slave" - "dynamic (it really isnt dynamic in this sense it's 
+just a fakazz reapplication of binary concepts) programming" ... to "client-server" - "cloud computing" - "distributed systems" - "parallel processing" - "quantum computing"
 ...
 systems that can all be based off the idea of "helpers helping helpers that need help and always trying to figure out how to 
 best get the help." With these concepts a language may change how it compiles itself while it compiles itself,
