@@ -17,7 +17,7 @@ based on a set of pre-defined "rules" or syntax. And the current ideology the pr
 current archetecture for systems and hardware from "master-slave" - "dynamic (it really isnt dynamic in this sense it's 
 just a fakazz reapplication of binary concepts) programming" ... to "client-server" - "cloud computing" - "distributed systems" - "parallel processing" - "quantum computing"
 ...
-systems that can all be based off the idea of "helpers helping helpers that need help and always trying to figure out how to 
+are all systems that can all be based off the idea of "helpers helping helpers that need help and always trying to figure out how to 
 best get the help." With these concepts a language may change how it compiles itself while it compiles itself,
 and experience more accurate and precise results pertaining to the vauation degree/magnitude set by the ElevenValueBoolean class.
 
