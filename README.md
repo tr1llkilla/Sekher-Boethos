@@ -19,7 +19,7 @@ just a fakazz reapplication of binary concepts) programming" ... to "client-serv
 ...
 are all systems that can all be based off the idea of "helpers helping helpers that need help and always trying to figure out how to 
 best get the help." With these concepts a language may change how it compiles itself while it compiles itself,
-and experience more accurate and precise results pertaining to the vauation degree/magnitude set by the ElevenValueBoolean class.
+and experience more accurate and precise results pertaining to the valuation degree/magnitude set by the ElevenValueBoolean class.
 
 Here Is The Entire Conversation In Case You Want To See It:
 
