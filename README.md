@@ -12,7 +12,7 @@ represents a boolean concept with eleven distinct states (0-10) and incorporates
 this concept be used to define a new programming language and if so, how would I go about creating a mini compiler or 
 interpreter in C++ that uses this ElevenValueBoolean class? From this I realized what a compiler really is and how it works.
 Computer science, programming, software engineering, and technology all apply this general concept of reinterpreting.
-That what is what a compiler is. A reinterprets of binary code into something else, like machine code or bytecode, 
+That what is what a compiler is. A reinterpretation of binary code into something else, like machine code or bytecode, 
 based on a set of pre-defined "rules" or syntax. And the current ideology the programming world follows in designing it's 
 current archetecture for systems and hardware from "master-slave" - "dynamic (it really isnt dynamic in this sense it's 
 just a fakazz reapplication of binary concepts) programming" ... to "client-server" - "cloud computing" - "distributed systems" - "parallel processing" - "quantum computing"
